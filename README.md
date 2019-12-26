@@ -10,5 +10,7 @@ In darkness, the LEDs will brighten, and in light, the LEDs will dim.
 </br>• Electrical Circuitry controlled with Python 
 
 ![Shining Light on LDR](https://raw.githubusercontent.com/wmmcguire/brightnessControl/master/ledbright1.PNG)
-![Absence of Light on LDR](https://raw.githubusercontent.com/wmmcguire/brightnessControl/master/ledbright2.PNG )
+![Absence of Light on LDR](https://raw.githubusercontent.com/wmmcguire/brightnessControl/master/ledbright2.PNG)
+
+</br>![Graph of LDR data](https://raw.githubusercontent.com/wmmcguire/brightnessControl/master/ledbright2.PNG)
 
