@@ -5,6 +5,9 @@ It involved LEDs that adjusted themselves based on the brightness of the environ
 In darkness, the LEDs will brighten, and in light, the LEDs will dim.
 
 # Skills acquired
-</br>• Graphing
-</br>• Live data analysis
+</br>• Graphing Live Data with Matplotlib
 </br>• Sensor testing
+</br>• Electrical Circuitry controlled with Python 
+
+<img>https://raw.githubusercontent.com/wmmcguire/brightnessControl/master/ledbright.PNG</img>
+
