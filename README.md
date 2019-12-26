@@ -12,5 +12,5 @@ In darkness, the LEDs will brighten, and in light, the LEDs will dim.
 ![Shining Light on LDR](https://raw.githubusercontent.com/wmmcguire/brightnessControl/master/ledbright1.PNG)
 ![Absence of Light on LDR](https://raw.githubusercontent.com/wmmcguire/brightnessControl/master/ledbright2.PNG)
 
-</br>![Graph of LDR data](https://raw.githubusercontent.com/wmmcguire/brightnessControl/master/ledbright2.PNG)
+</br>![Graph of LDR data](https://raw.githubusercontent.com/wmmcguire/brightnessControl/master/ldrgraph.PNG)
 
